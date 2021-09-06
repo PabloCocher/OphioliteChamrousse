@@ -25,11 +25,7 @@
         "marker-size": "small",
         "marker-symbol": "",
         "description": "Le complexe filonien: les filons de basalte doléritique à phénocristaux de plagioclase et bordures figées sont bien visibles. Ils sont intrusifs dans des gabbros foliés leucocrates",
-        "name": "Arrêt 2",
-        "cNT": "45° 6' 35,450\" N",
-        "cET": "5° 52' 46,620\" E",
-        "cND": "45,1098472222222",
-        "cED": "5,87961666666667"
+        "name": "Arrêt 2"
       },
       "geometry": {
         "type": "Point",
@@ -42,15 +38,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-color": "#ff0000",
+        "marker-size": "small",
         "marker-symbol": "",
-        "description": 0,
-        "pName": "Arrêt 3",
-        "cNT": "45° 7' 13,110\" N",
-        "cET": "5° 53' 54,260\" E",
-        "cND": "45,1203083333333",
-        "cED": "5,89840555555555"
+        "description": "Les gabbros foliés: appelé communément 'complexe blastomylonitique', cet affleurement représente la base de la chambre magmatique. Il est composé de gabbros très magnésiens montrant une refusion partielle locale en présence d'eau (filon à plagioclase-amphibole). Dans la partie supérieure de l'affleurement, un sill de dolérite présentant une bordure figée est bien visible. L'ensemble a été repris par un métamorphisme amphibolitique, probablement d'âge Dévonien supérieur (vers 360-350 Ma).",
+        "name": "Arrêt 3"
       },
       "geometry": {
         "type": "Point",
@@ -63,15 +55,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-color": "#ff0000",
+        "marker-size": "small",
         "marker-symbol": "",
-        "description": 0,
-        "pName": "Arrêt 6",
-        "cNT": "45° 7' 36,140\" N",
-        "cET": "5° 54' 47,660\" E",
-        "cND": "45,1267055555556",
-        "cED": "5,91323888888889"
+        "description": "Les chromitites: cet affleurement est caractérisé par la présence de dunites à spinel chromifères. La richesse exceptionnelle en spinels chromifères font de ces roches des chromitites. Connus sous le nom de pods chromifères ces formations traduisent une interaction secondaire entre une péridotite cumulative et un liquide basaltique.",
+        "name": "Arrêt 6"
       },
       "geometry": {
         "type": "Point",
@@ -84,15 +72,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-color": "#ff0000",
+        "marker-size": "small",
         "marker-symbol": "",
-        "description": 0,
-        "pName": "Arrêt 4",
-        "cNT": "45° 7' 31,110\" N",
-        "cET": "5° 54' 5,230\" E",
-        "cND": "45,1253083333333",
-        "cED": "5,90145277777778"
+        "description": "Le Trias de la Croix de Chamrousse: en dessous de l'ancien téléphérique, les dolomites du Trias sont encore localement visibles, elles forment la surface structurale qui descend en direction de l'Ouest (pistes de ski). La couverture sédimentaire post-triasique qui recouvrait le massif de Belledonne a été expulsée vers l'Ouest, formant le massif de la Chartreuse.",
+        "name": "Arrêt 4"
       },
       "geometry": {
         "type": "Point",
@@ -105,15 +89,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-color": "#ff0000",
+        "marker-size": "small",
         "marker-symbol": "",
-        "description": 0,
-        "pName": "Arrêt 5",
-        "cNT": "45° 7' 33,860\" N",
-        "cET": "5° 54' 37,460\" E",
-        "cND": "45,1260722222222",
-        "cED": "5,91040555555556"
+        "description": "Le contact gabbros-serpentinites: le contact à polarité inverse entre les gabbros à orthopyroxènes et les serpentinites est bien visible sur l'arête du Manqué. Il s'agit en fait d'un filon décamétrique de gabbros mise en place dans les cumulats ultrabasiques, ultérieurement serpentinisés.",
+        "name": "Arrêt 5"
       },
       "geometry": {
         "type": "Point",
@@ -126,15 +106,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-color": "#ff0000",
+        "marker-size": "small",
         "marker-symbol": "",
-        "description": 0,
-        "pName": "Arrêt 7",
-        "cNT": "45° 7' 25,650\" N",
-        "cET": "5° 54' 35,040\" E",
-        "cND": "45,1237916666667",
-        "cED": "5,90973333333333"
+        "description": "Les éboulis: des gabbros à grands phénocristaux de pyroxène ou d'olivine altérée sont bien visibles dans les blocs. On observe fréquemment des filons de basalte recoupant des gabbros foliés suggérant que la foliation est syn-accrétion océanique.",
+        "name": "Arrêt 7"
       },
       "geometry": {
         "type": "Point",
@@ -147,15 +123,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-color": "#ff0000",
+        "marker-size": "small",
         "marker-symbol": "",
-        "description": 0,
-        "pName": "Arrêt 8",
-        "cNT": "45° 6' 52,700\" N",
-        "cET": "5° 54' 13,210\" E",
-        "cND": "45,1146388888889",
-        "cED": "5,90366944444444"
+        "description": "Le Lac Achard: ce lac de surcreusement glaciaire est entouré par des surfaces moutonnées, typiques de l'érosion glaciaire.",
+        "name": "Arrêt 8"
       },
       "geometry": {
         "type": "Point",
