@@ -26,7 +26,11 @@
         "marker-symbol": "",
         "description": "Le complexe filonien: les filons de basalte doléritique à phénocristaux de plagioclase et bordures figées sont bien visibles. Ils sont intrusifs dans des gabbros foliés leucocrates",
         "name": "Arrêt 2",
-       },
+        "cNT": "45° 6' 35,450\" N",
+        "cET": "5° 52' 46,620\" E",
+        "cND": "45,1098472222222",
+        "cED": "5,87961666666667"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
