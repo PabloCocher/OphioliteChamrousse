@@ -7,7 +7,7 @@
         "marker-color": "#ff0000",
         "marker-size": "small",
         "marker-symbol": "",
-        "descriptiom": "Le contact basal: alternance d'amphibolites et de gneiss plagioclasiques foliés. Cette formation correspond à la partie supérieure du complexe filonien dans lequel les filons basaltiques alternaient avec des plagiogranites. L'ensemble a été intensément déformé lors de l'obduction de l'ophiolite.",
+        "description": "Le contact basal: alternance d'amphibolites et de gneiss plagioclasiques foliés. Cette formation correspond à la partie supérieure du complexe filonien dans lequel les filons basaltiques alternaient avec des plagiogranites. L'ensemble a été intensément déformé lors de l'obduction de l'ophiolite.",
         "name": "Arrêt 1"
       },
       "geometry": {
@@ -42,7 +42,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Id": 0,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": 0,
         "pName": "Arrêt 3",
         "cNT": "45° 7' 13,110\" N",
         "cET": "5° 53' 54,260\" E",
@@ -60,7 +63,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Id": 0,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": 0,
         "pName": "Arrêt 6",
         "cNT": "45° 7' 36,140\" N",
         "cET": "5° 54' 47,660\" E",
@@ -78,7 +84,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Id": 0,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": 0,
         "pName": "Arrêt 4",
         "cNT": "45° 7' 31,110\" N",
         "cET": "5° 54' 5,230\" E",
@@ -96,7 +105,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Id": 0,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": 0,
         "pName": "Arrêt 5",
         "cNT": "45° 7' 33,860\" N",
         "cET": "5° 54' 37,460\" E",
@@ -114,7 +126,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Id": 0,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": 0,
         "pName": "Arrêt 7",
         "cNT": "45° 7' 25,650\" N",
         "cET": "5° 54' 35,040\" E",
@@ -132,7 +147,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Id": 0,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": 0,
         "pName": "Arrêt 8",
         "cNT": "45° 6' 52,700\" N",
         "cET": "5° 54' 13,210\" E",
